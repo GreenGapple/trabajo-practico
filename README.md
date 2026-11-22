@@ -2,7 +2,7 @@
 
 **Autor:** Ricardo Moreira Correa
 **Variante:** A · Personajes (endpoint `https://rickandmortyapi.com/api/character`)
-**Página publicada:** https://TU-USUARIO.github.io/tp-moreira-ricardo/
+**Página publicada:** https://GreenGapple.github.io/tp-moreira-ricardo/
 
 ## Descripción
 
